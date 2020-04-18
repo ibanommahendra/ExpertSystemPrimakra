@@ -1,0 +1,1 @@
+menggunakan anaconda, karena jupiter lab try on web loading lama
